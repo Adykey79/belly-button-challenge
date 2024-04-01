@@ -1,5 +1,5 @@
 // The url with data
-const url = "../../samples.json"
+const url = "samples.json"
 
 // Display the default plots
 function init() {
