@@ -1,5 +1,5 @@
 // The url with data
-const url = "samples.json"
+const url = "https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json"
 
 // Display the default plots
 function init() {
