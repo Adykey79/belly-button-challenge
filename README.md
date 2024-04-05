@@ -1,6 +1,9 @@
 # belly-button-challenge
 UCI Bootcamp Week 14 - Belly Button Challenge
 
+### Deploy the repository to GitHub Pages
+> https://adykey79.github.io/belly-button-challenge/
+
 ![Screenshot_1510](https://github.com/Adykey79/belly-button-challenge/assets/149746353/e047534b-1c37-4e18-be11-0bde6408cc74)
 
 
